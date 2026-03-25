@@ -1,0 +1,89 @@
+
+
+/* .monday{
+    
+    margin: 5px;
+    border: 2px solid black;
+    padding: 10px;
+  text-align: center;
+  
+} */
+
+
+
+/* .tuesday{
+    margin: 5px;
+    border: 2px solid black;
+    padding: 10px;
+  text-align: center;
+}
+
+.wednesday{
+    margin: 5px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    
+}
+.wednesday th{
+color: red;
+padding: 10px;
+}
+.thursday{
+    margin: 5px;
+    border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+.friday{
+    margin: 5px;
+    border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+ */
+
+ body {
+      font-family: Arial, sans-serif;
+      background-color: #d4f5ae;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #834848;
+    }
+    table {
+      width: 90%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      background-color: #fff;
+    }
+    th, td {
+      border: 1px solid #999;
+      padding: 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background-color: #ffdf80;
+      text-align: center;
+      font-size: 18px;
+    }
+    td {
+      font-size: 15px;
+    }
+    tr:nth-child(even) {
+      background-color: #f7f7f7;
+    }
+    .holiday {
+      text-align: center;
+      font-weight: bold;
+      color: #d11a2a;
+      font-size: 18px;
+      background-color: #fff3cd;
+    }
+    .highlight {
+      color: #e63900;
+      font-weight: bold;
+    }
